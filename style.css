@@ -1,0 +1,158 @@
+body{
+    background-color: black;
+}
+
+.card{
+    background-color: rgb(34, 34, 34);
+    border:1px solid white;
+    text-align: center;
+    position: absolute;
+    position:fixed;
+    padding:40px;
+    color: rgb(230, 231, 214);
+    border-radius: 10%;
+}
+.card1{
+    position:relative;
+    margin-left:25%;
+    border:1px solid white;
+   background-color: rgb(34, 34, 34);
+   border-radius: 10px;
+   padding:20px;
+   
+}    
+.list{
+    list-style-type: none; /* Remove default bullets */
+    
+    
+    
+    position: absolute;
+    top: 20px; /* Distance from the top */
+    right: 20px; /* Distance from the right */
+    font-size: 25px;
+    font-family: var(--ff-poppins);
+    
+    
+    
+    
+}
+.icon{
+    float:left;
+}
+img{
+    box-shadow: 3px 3px 3px rgb(114, 101, 26);
+    border-radius: 10px;
+   margin-top: 1px;
+}
+p{
+    font-size: 15px;
+    color:white;
+}
+#para{
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 17px;
+}
+.button{
+    font-size: 20px;
+    
+    margin-left: 10px;
+    
+    background-color:rgb(34, 34, 34);
+    box-shadow: 1px 1px 1px white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+input{
+    padding-right:50px;
+    border-radius: 20px;
+    background-color:hsl(0, 0%, 25%);
+    border: 1px solid whitesmoke;
+    padding: 20px;
+}
+#Form{
+    padding-right: 500px;
+    background-color:hsl(0, 0%, 25%);
+    border: 1px solid whitesmoke;
+}
+#send{
+   padding:3%;
+   margin-left: 40%;
+   margin-top: 20px;
+   border-radius: 10px;
+   background-color: hsl(0, 0%, 25%);
+   border:1px solid white;
+   box-shadow:1px 2px 3px white;
+   color:white
+}
+h1:hover{
+    text-shadow: black;
+    color:rgb(194, 177, 80);
+}
+h4{
+    color:white
+}
+button{
+    padding:10px;
+    border-radius: 10px;
+
+}
+.button:hover{
+    color:gold;
+    
+    box-shadow: 1px 1px 1px gold;
+}    
+h1{
+    color:rgb(194, 177, 80);
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    color:rgb(250, 237, 166);
+}
+h4{
+    color: rgba(255, 255, 255, 0.507);
+}
+.card3{
+    border:1px solid white;
+    position:absolute;
+    padding:20px;
+    text-align: center;
+
+    
+}
+.card4{
+    border:1px solid white;
+    position: relative;
+    margin-left: 50%;
+    text-align: center;
+    padding:20px;
+    
+}
+h5{
+    color:gold;
+}
+h3{
+    color:white;
+}
+a:hover{
+    color:gold;
+}
+.card:hover{
+    box-shadow:5px 5px 5px gold;
+
+}
+.card1:hover{
+    box-shadow:5px 5px 5px white;
+
+}
+.card3:hover{
+    box-shadow:5px 5px 5px gold;
+
+}
+.card4:hover{
+    box-shadow:5px 5px 5px gold;
+
+}
+
